@@ -1,0 +1,47 @@
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+--------------------------------------------------------------------------
+[[37966,1],0]: A high-performance Open MPI point-to-point messaging module
+was unable to find any relevant network interfaces:
+
+Module: OpenFabrics (openib)
+  Host: compute-13-5
+
+Another transport will be used instead, although this may result in
+lower performance.
+--------------------------------------------------------------------------
+I am 6 of 8 
+I am 0 of 8 
+I am 4 of 8 
+I am 3 of 8 
+I am 5 of 8 
+I am 1 of 8 
+I am 7 of 8 
+I am 2 of 8 
+allocating to the mandelbrot array
+sending initial messages to the slave
+%Time for MASTER/SLAVE : d	334.0977950096
+%Time for MASTER/SLAVE : d	334.1558010578
+%Time for MASTER/SLAVE : d	334.1437468529
+%Time for MASTER/SLAVE : d	334.2657339573
+%Time for MASTER/SLAVE : d	334.3267889023
+%Time for MASTER/SLAVE : d	334.3427109718
+%Time for MASTER/SLAVE : d	334.3070850372
+beginning of render code
+%Time for MASTER/SLAVE : d	334.4086470604
+%Time for RENDERING: d	449.2300660610
+end of the render code

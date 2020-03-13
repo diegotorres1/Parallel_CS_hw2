@@ -12,7 +12,7 @@ echo -e "\n\n"
 module load openmpi-1.8.3/gcc-4.9.2
 
 # Run the ping-pong benchmark
-mpirun -np 2 -npernode 1 ./pingpong
+mpirun -np 2 -npernode 2 ./pingpong
 
 # Generate netplot.png
 gnuplot netplot.gnu

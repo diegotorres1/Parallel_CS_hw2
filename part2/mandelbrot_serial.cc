@@ -16,7 +16,7 @@ using namespace std;
 
 int
 mandelbrot(double x, double y) {
-  int maxit = 511;
+  int maxit = 511; /*max number if iterations to perform on the iterative equation*/
   double cx = x;
   double cy = y;
   double newx, newy;
@@ -37,7 +37,7 @@ main(int argc, char* argv[]) {
   double maxX = 0.7;
   double minY = -1.25;
   double maxY = 1.25;
-  
+
   int height, width;
   if (argc == 3) {
     height = atoi (argv[1]);

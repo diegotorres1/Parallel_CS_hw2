@@ -81,7 +81,7 @@ int main (int argc, char *argv[])
       pingpong (msgbuf, len);
     } /* trial */
     t_elapsed = MPI_Wtime () - t_start; /* Stop timer */
-	
+
     if (rank == 0) {
       /* Write the one-way transfer time data to results.dat */
       int num_bytes = len * sizeof (int);

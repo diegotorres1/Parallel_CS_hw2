@@ -1,0 +1,69 @@
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+I am 11 of 16 
+I am 2 of 16 
+I am 3 of 16 
+I am 6 of 16 
+I am 7 of 16 
+I am 8 of 16 
+I am 15 of 16 
+I am 12 of 16 
+I am 14 of 16 
+I am 0 of 16 
+I am 4 of 16 
+I am 10 of 16 
+I am 9 of 16 
+I am 13 of 16 
+I am 1 of 16 
+allocating to the mandelbrot array
+sending initial messages to the slave
+I am 5 of 16 
+%Time for MASTER/SLAVE : d	14.9657559395
+%Time for MASTER/SLAVE : d	15.0411779881
+%Time for MASTER/SLAVE : d	15.0412411690
+%Time for MASTER/SLAVE : d	15.0414328575
+%Time for MASTER/SLAVE : d	15.0414769650
+%Time for MASTER/SLAVE : d	15.0416169167
+%Time for MASTER/SLAVE : d	15.0419671535
+%Time for MASTER/SLAVE : d	15.0418229103
+%Time for MASTER/SLAVE : d	15.0420057774
+%Time for MASTER/SLAVE : d	15.0420870781
+%Time for MASTER/SLAVE : d	15.0422971249
+%Time for MASTER/SLAVE : d%Time for MASTER/SLAVE : d	15.0661630630
+%Time for MASTER/SLAVE : d	15.0660688877
+%Time for MASTER/SLAVE : d	15.0624668598
+beginning of render code
+%Time for MASTER/SLAVE : d	15.0663969517
+	15.0206058025
+%Time for RENDERING: d	46.4720349312
+end of the render code
